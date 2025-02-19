@@ -14,7 +14,7 @@ export default function Home() {
           AI Agent 
         </h2>
         <p className="text-center text-zinc-100 pt-2  animate-pulse font-extralight text-xs">
-         Wallet and Onchain research coming soon...
+         Wallet, trading and Onchain research Agent coming soon...
         </p>
 
         <a
