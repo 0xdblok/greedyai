@@ -19,7 +19,7 @@ export default function Home() {
 
         <a
           className=" pt-4"
-          href="https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE">
+          href="">
           {" "}
           <div
             class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
@@ -30,6 +30,9 @@ export default function Home() {
 
         <div class="mt-6 text-base text-center text-gray-400">
           token live on solana
+        </div>
+        <div class="mt-6 text-base text-center text-gray-400">
+          ca :
         </div>
         <div
           class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-gray-500 w-[419px]"
